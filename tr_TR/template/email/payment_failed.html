@@ -1,0 +1,71 @@
+{* This is a comment block
+
+Use vars: {{var var_name}}
+*}<!--@subject Tahsilat İşleminde Hata Hatırlatıcı @-->
+<!--@vars
+{"var reason":"Transaction Failed Reason",
+"var checkoutType":"Checkout Type",
+"var customerEmail":"Customer Email",
+"var customer":"Customer Name",
+"var items":"Shopping Cart Items",
+"var total":"Total",
+"var billingAddress.format('html')":"Billing Address",
+"var shippingAddress.format('html')":"Shipping Address",
+"var shippingMethod":"Shipping Method",
+"var paymentMethod":"Payment Method",
+"var dateAndTime":"Date and Time of Transaction"}
+@-->
+
+<table>
+    <thead>
+        <tr>
+            <th>Tahsilat işleminde hata oluştu.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p>
+                    <b>Sebep : </b><br />
+                    {{var reason}}
+                </p>
+                <p>
+                    <b>Alışveriş Tamamlama Şekli :</b><br />
+                    {{var checkoutType}}
+                </p>
+                <p>
+                    <b>Müşteri : </b><br />
+                    <a href="mailto:{{var customerEmail}}">{{var customer}}</a> &lt;{{var customerEmail}}&gt;
+                </p>
+                <p>
+                    <b>Ürünler</b><br />
+                    {{var items}}
+                </p>
+                <p>
+                    <b>Toplam :</b><br />
+                    {{var total}}
+                </p>
+                <p>
+                    <b>Fatura Adresi :</b><br />
+                    {{var billingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>Teslimat Adresi :</b><br />
+                    {{var shippingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>Teslimat Yöntemi :</b><br />
+                    {{var shippingMethod}}
+                </p>
+                <p>
+                    <b>Tahsilat Yöntemi :</b><br />
+                    {{var paymentMethod}}
+                </p>
+                <p>
+                    <b>Tarih Saat :</b><br />
+                    {{var dateAndTime}}
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
