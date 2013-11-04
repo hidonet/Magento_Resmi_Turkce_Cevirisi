@@ -10,6 +10,6 @@ Buradan indirdiğiniz tercümeyi kullanmak için zip dosyasından tr_TR klasör�
 Çıkabilecek Sorunlar
 =============================
 Eğer ön sayfada tercüme hiç gözükmediyse;
-    a ) Önbellek yenilemesi yapmamış olabilirsiniz,
-    b ) Yönetim sayfasında sistem / ayarlar / genel bölümündeki Locale kısmında Turkish seçmemişsinizdir
+    <li>Önbellek yenilemesi yapmamış olabilirsiniz,
+    <li>Yönetim sayfasında sistem / ayarlar / genel bölümündeki Locale kısmında Turkish seçmemişsinizdir
 
