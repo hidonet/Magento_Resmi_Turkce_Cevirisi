@@ -38,3 +38,6 @@
 "Transaction Key","İşlem Anahtarı"
 "What is this?","Bu nedir?"
 "You will be required to enter your payment details before you place an order.","Siparişi tamamlamak için ödeme detaylarınızı girmeniz gerekiyor."
+"--------------- v 1.8.0.0 2014-05-07 BASI --------------------","////////////////////////////////////////////////////////////////////////"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Tutar %s ödeme sağlayıcı tarafından onaylandı. İşlem No : ""%s""."
+"--------------- v 1.8.0.0 2014-05-07 SONU --------------------","////////////////////////////////////////////////////////////////////////"
