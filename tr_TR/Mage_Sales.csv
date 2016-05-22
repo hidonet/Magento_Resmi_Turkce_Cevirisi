@@ -1105,3 +1105,18 @@
 "Invalid value(s) for Qty to Ship","Kargolanacak adet alanına hatalı veri girildi"
 "You don\'t have permissions to manage this order because of one or more products are not permitted for your website.","Bu siparişi düzenlemek için yetkiniz yok. Siparişteki ürünlerden bazıları yetkili olduğunuz web sitesine bağlı değil."
 "--------------- v 1.8.0.0 2014-05-07 SONU --------------------","////////////////////////////////////////////////////////////////////////"
+"--------------- v 1.9.2.4 2016-05-21 BASI --------------------","////////////////////////////////////////////////////////////////////////"
+
+"Create Order","Sipariş Oluştur"
+"Customer Middle Name","Müşteri İkinci Adı"
+
+"Gift Wrapping for the Entire Order","Tüm Sipariş için Hediye Paketlemesi"
+
+"Invoiced:","Faturalanan:"
+
+"Middle Name","İkinci Ad"
+
+"ZIP Code","Posta Kodu"
+
+"--------------- v 1.9.2.4 2016-05-21 SONU --------------------","////////////////////////////////////////////////////////////////////////"
+

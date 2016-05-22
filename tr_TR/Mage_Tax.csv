@@ -233,3 +233,7 @@
 "--------------- v 1.8.0.0 2014-05-07 BASI --------------------","////////////////////////////////////////////////////////////////////////"
 "Warning tax configuration can result in unexpected FPT prices on applicable devices","Dikkat! Vergi ayarları beklenmeyen FPT fiyatlarının oluşmasına neden olabilir"
 "--------------- v 1.8.0.0 2014-05-07 SONU --------------------","////////////////////////////////////////////////////////////////////////"
+"--------------- v 1.9.2.2 2016-05-21 BASI --------------------","////////////////////////////////////////////////////////////////////////"
+"Enable Cross Border Trade","Sınırötesi Ticareti Etkinleştir"
+"When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Eğer ürün fiyatlarına vergi dahilse bu özelliği açarak müşteri vergisinin ne olduğuna bakmadan hesaplama yapılmasını sağlayabilirsiniz."
+"--------------- v 1.9.2.2 2016-05-21 SONU --------------------","////////////////////////////////////////////////////////////////////////"
